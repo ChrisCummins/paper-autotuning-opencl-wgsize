@@ -30,7 +30,7 @@ Systems. Prague, Czech Republic, Monday, Jan 18th 2016. Co-Located with HiPEAC
 2016.
 
 ```
-@inproceedings{cummins2016b,
+@inproceedings{cummins2016a,
     author    = "Cummins, Chris and Petoumenos, Pavlos and Steuwer, Michel and Leather, Hugh",
     title     = "Autotuning OpenCL Workgroup Size for Stencil Patterns",
     booktitle = "The 6th International Workshop on Adaptive Self-tuning Computing Systems (ADAPT)",
